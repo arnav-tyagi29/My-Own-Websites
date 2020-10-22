@@ -1,0 +1,159 @@
+body{
+    margin-top: 0px;
+    background-color: lightblue;
+    background-image: url(https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif);
+  
+}
+nav{
+    word-spacing: 50px;
+    border-radius: 50px;
+    border-style: double;
+    padding:50px;
+    border-width: 20px;
+    border-color: darkred;
+    background-color: goldenrod;
+    position: sticky;
+    top: 10px;
+
+    
+}
+.navbar{
+    background-color: aqua;
+    padding:15px;
+    font-size: 25px;
+    border-style: inset;
+    border-width: 15px;
+    border-color: blue;
+    color: black;
+    font-weight:900;
+}
+.firsth1{
+    font-weight: bolder;
+    border-style: outset;
+    border-width: 30px;
+    border-color: chartreuse;
+    padding:60px;
+    font-size: 75px;
+    background-color: indigo;
+    color: ivory;
+ 
+}
+.a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.navbar1{
+    background-color: aqua;
+    padding:15px;
+    font-size: 25px;
+    border-style: inset;
+    border-width: 15px;
+    border-color: blue;
+    color: black;
+    font-weight:900;
+    word-spacing: 1px;
+}
+.navbar:hover{
+    color: ivory;
+    background-color:darkgreen;
+    
+}
+.navbar1:hover{
+    color: ivory;
+    background-color:darkgreen;
+    
+    
+}
+.a:active{
+    color: ivory;
+}
+.a:visited{
+text-decoration: none;
+}
+.side{
+    float: right;
+    margin-right: 300px;
+    font-size: 20px
+   
+    ;
+    color: chocolate;
+    font-weight: bolder;
+    /* border-style: inset;
+    border-width: 30px;
+    border-color: darkmagenta; */
+}
+.button{
+    margin-left: 20px;
+    padding: 15px;
+    font-size: larger;
+    border-style: ridge;
+    border-color: darkgoldenrod;
+    border-width: 24px;
+    background-color:cyan;
+    font-weight: 900;
+}
+.h1tag{
+    color: darkblue;
+}
+/* img{
+    border-style: inset;
+    border-width: 30px;
+    border-color: darkmagenta;
+} */
+
+.span{
+    background-color: darkseagreen;
+    margin: 5px;
+}
+.portfolio{
+    text-decoration: none;
+    color: black;
+}
+.portfolio:visited{
+    color: black;
+    text-decoration: none;
+}
+.portfolio:active{
+    color: white;
+}
+.button:hover{
+    background-color: chocolate;
+}
+.twodiv{
+    text-align: center;
+    background-color: darkturquoise;
+   
+    
+}
+.coding{
+    font-size:50px;
+    color:darkred;
+    background-color: white;
+    position: sticky;
+    top: 20px;
+}
+.secondimage{
+   margin-top:0px ;
+   border-style: dotted;
+   border-width: 10px ;
+}
+.p{
+    background-color: deeppink;
+    color: gainsboro;
+    font-size: 20px;
+    border-style: groove;
+    border-color: gold;
+    border-width: 10px;
+}
+.button1{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+.button2{
+    position: fixed;
+    bottom: 15px;
+    right: 150px;
+}
